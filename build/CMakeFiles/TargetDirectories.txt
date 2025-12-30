@@ -1,0 +1,3 @@
+C:/Users/Dell/Downloads/LF/gui/build/CMakeFiles/LightFieldStudio.dir
+C:/Users/Dell/Downloads/LF/gui/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dell/Downloads/LF/gui/build/CMakeFiles/ZERO_CHECK.dir

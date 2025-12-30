@@ -1,0 +1,10 @@
+^C:\USERS\DELL\DOWNLOADS\LF\GUI\BUILD\CMAKEFILES\E0E6EA73E2277E1D8A879ECE77BDFDBD\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Dell/Downloads/LF/gui -BC:/Users/Dell/Downloads/LF/gui/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Dell/Downloads/LF/gui/build/LightFieldStudio.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
