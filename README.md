@@ -27,7 +27,7 @@ This project demonstrates:
 
 The entire application runs inside **one unified window**, similar to professional imaging tools.
 
-![GUI Overview](assets/aperture.PNG)
+![GUI Overview](assets/main.PNG)
 
 The window contains:
 - Sub-aperture mosaic view
